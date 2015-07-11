@@ -8,19 +8,23 @@ relative_permalinks: true
 
 # Setup
 title:            Laurence de Torrente
-tagline:          'A Jekyll theme'
-description:      'Research Fellow in the Systems and Computational Biology Department at Albert Einstein College of Medicine.'
-url:              http://hyde.getpoole.com
+tagline:          'Research Fellow'
+description:      ''
+url:              http://http://detorrentel.github.io
 baseurl:          /
 
 author:
   name:           'Laurence de Torrente'
   url:            
-
-paginate:         5
+  email:          laurence.detorrente@gmail.com
+paginate:         3
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/detorrentel
+  
+  #social links
+github_user: detorrentel
+linkedin_user: laurencedetorrente
