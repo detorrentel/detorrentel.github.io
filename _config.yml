@@ -3,7 +3,7 @@
 title: Laurence de Torrente
 description: Site personnel
 logo: # 120x120 px default image used for Twitter summary card
-teaser: profile.jpg# 400x250 px default teaser image used in image archive grid
+teaser: /images/profile.jpg# 400x250 px default teaser image used in image archive grid
 locale:
 url:
 
