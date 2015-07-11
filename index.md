@@ -11,7 +11,7 @@ layout: base
 
 <div class="wrapper">
  <main>
-      {% if site.compass.include_content %}
+      {% if site.content %}
       <div class="content">
         {% include content.html %}
       </div>
