@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Laurence de Torrente
 tagline:          'A Jekyll theme'
-description:      'I am a Research Fellow in the Systems and Computational Biology Department at Albert Einstein College of Medicine'
+description:      'Research Fellow in the Systems and Computational Biology Department at Albert Einstein College of Medicine.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
