@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I built this website to share with you my passion for Data Science!
 </p>
 <img src="/images/profile.jpg" align="right" height="256">
 
