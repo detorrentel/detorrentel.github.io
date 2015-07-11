@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Laurence de Torrente
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             laurence.detorrente@gmail.com
 
 # Custom vars
 version:             2.0.0

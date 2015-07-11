@@ -11,8 +11,20 @@ In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Je
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<table>
+<tr>
+<td>
+    <a href="http://www.linkedin.com/in/laurencedetorrente">
+    <span class="fa fa-linkedin fa-lg main-list-item-icon"></span>
+    Linked In</a>
+</td>
+<td>
+    <a href="laurence.detorrente@gmail.com">
+    <span class="fa fa-envelope fa-lg main-list-item-icon"></span>
+    Email</a>
+</td>
+</tr>
+</table>
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
